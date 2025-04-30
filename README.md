@@ -1,1 +1,1 @@
-This file contains the work carried on during the semester project for Spring 2025 at EPFL. The objective is to give an overview of the geometric properties of Wasserstein spaces, together with some applications, with a focus on intuition.
+This file contains the work carried on during the semester project for Spring 2025 at EPFL under the supervision of PhD L.V.Santoro. The objective is to give an overview of the geometric properties of Wasserstein spaces, together with some applications, with a focus on intuition.
